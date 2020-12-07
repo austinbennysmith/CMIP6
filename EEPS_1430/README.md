@@ -1,3 +1,3 @@
 ## This repository contains code for my final project in EEPS 1430.
-You can read my final report [at this Overleaf page](https://www.overleaf.com/read/wtvzvgnqxqrr)
+You can read my final report [at this Overleaf page](https://www.overleaf.com/read/wtvzvgnqxqrr). </br>
 See [maps_ssp585](https://github.com/austinbennysmith/CMIP6/blob/main/EEPS_1430/maps_ssp585.ipynb) for code that plots the change in rainfall across the Sahel and North Africa between 2015-19 and 2090-99 in SSP5-8.5 CMIP6 simulations. See [N_S_Temps](https://github.com/austinbennysmith/CMIP6/tree/main/EEPS_1430/N_S_Temps) for code that plots change in the northern vs southern hemisphere extratropical surface air temperature across the 21st century for a few models (averaged across all ensemble members for each).
