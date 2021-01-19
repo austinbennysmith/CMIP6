@@ -1,2 +1,2 @@
 ### These programs calculated an NAO index that is normalized by its standard deviation. However, I noticed something weird about the normalization. When I take a moving average of the anomalies, then normalize that moving average by its standard deviation, I get something like the following (this is just one ensemble member of one model):
-
+<img width="1304" alt="Screen Shot 2021-01-19 at 5 18 58 PM" src="https://user-images.githubusercontent.com/69660053/105100201-f05bf380-5a7a-11eb-9781-216b8fe74ec0.png">
